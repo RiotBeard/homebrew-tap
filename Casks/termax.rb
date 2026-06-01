@@ -1,6 +1,6 @@
 cask "termax" do
-  version "0.71.2"
-  sha256 "c5ebb173734dffea6b2a7484f45c5c70aa1a79cd2dc5f43deab0e6ec33cf8d2b"
+  version "0.71.3"
+  sha256 "806bcdd123cbf2ecc0582f0e1e9c24faa40115c8ece3756ddc2c9950dd136ebe"
 
   url "https://github.com/RiotBeard/termax/releases/download/v#{version}/TerMax_#{version}_aarch64.dmg"
   name "TerMax"
